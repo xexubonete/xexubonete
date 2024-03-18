@@ -1,5 +1,7 @@
-# ¡Hola, bienvenido a mi repositorio de GitHub! 👋
-  <p>Soy Jesús😊, ponte cómodo y échale un vistazo a lo que quieras. Encontrarás pequeños proyectos en .NET que uso para aprender y crecer. Trabajo con .NET Core, API REST, Entity Framework Core y Angular, entre otras tecnologías 🔥💻</p>
-  <p>Mi objetivo es seguir ampliando mi caché de conocimientos y habilidades. ¡Por eso estoy aquí! Siempre estoy dispuesto a aprender nuevas tecnologías y enfrentar nuevos retos. 🎉😊</p>
-  <p>Gracias por visitar mi rincón en GitHub. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, no dudes en contactarme.🚀👋</p>
-  Puedes encontrarme en <a href="https://www.linkedin.com/in/jesus-bonete-sanchez/">LinkedIn</a> 📫
+
+<h1>Hello, welcome to my Github repository!
+<p>I'm Jesus 😊, make yourself comfortable and take a look at whatever you want. You'll find small projects in .NET that I use to learn and grow. I work with .NET Core, REST API, Entity Framework Core, and Angular, among other technologies 🔥💻</p>
+<p>My goal is to continue expanding my knowledge and skills cache. That's why I'm here! I'm always eager to learn new technologies and take on new challenges. 🎉😊</p>
+<p>Thanks for visiting my corner on GitHub. If you have any questions, suggestions, or just want to chat, feel free to contact me.🚀👋</p>
+<p>You can find me on <a href="https://www.linkedin.com/in/jesus-bonete-sanchez/">LinkedIn</a></p>📫
+
