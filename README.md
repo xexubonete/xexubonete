@@ -1,6 +1,19 @@
 ```yaml
 Code is like a secret conversation between the programmer and the machine: 
 lines of logic that whisper, ones and zeros that dance. When everything aligns, 
-it’s as if poetry and math join hands… until a bug arrives and throws the universe into disarray. 
+it’s as if poetry and math join hands… until a bug arrives and throws the universe into disarray.
+
 Then, it’s time for coffee and debug, until chaos becomes art once more.
 ```
+
+<a href="https://github.com/xexubonete/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xexubonete&show_icons=true&hide=contribs,prs&show=prs_merged_percentage&hide_title=true&theme=dracula" />
+</a>
+<a href="https://github.com/xexubonete/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xexubonete&hide_title=true&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
+<p align="center"> 
+  <br>
+  <img src="https://profile-counter.glitch.me/xexubonete/count.svg" /><br>
+</p>
