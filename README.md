@@ -1,6 +1,6 @@
 <p align="center">
   Visitor number:<br>
-  <img src="https://www.freevisitorcounters.com/en/home/counter/1364629/t/2" alt="Visitor Counter" /><br>
+  <img src="https://visit-counter.vercel.app/counter.png?page=xexubonete.github.io" alt="Visitor Counter" /><br>
 </p>
 
 <a href="https://github.com/xexubonete/">
