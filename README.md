@@ -4,19 +4,11 @@
 </p>
 
 <a href="https://github.com/xexubonete/">
-  <img 
-    height="155" 
-    align="center" 
-    src="https://gitmystat.vercel.app/user?username=xexubonete&theme=dark&background=0x0E1116&border=0x0E1116&color=0xffffff&accent=0x79ffe1&tip=0x79ffe1"
-    alt="GitHub Stats"
-  />
+  <img height=155 align="center"
+    src="https://github-readme-stats-six-sigma-60.vercel.app/api?username=xexubonete&show_icons=true&hide=contribs,prs&show=prs_merged_percentage&hide_title=true&theme=dark&rank_icon=github&bg_color=0E1116&hide_border=true" />
 </a>
 
 <a href="https://github.com/xexubonete/">
-  <img
-    height="155"
-    align="center"
-    src="https://gitmystat.vercel.app/top-langs?username=xexubonete&theme=dark&background=0x0E1116&border=0x0E1116&color=0xffffff&accent=0x79ffe1&tip=0x79ffe1"
-    alt="Top Languages"
-  />
+  <img height=155 align="center"
+    src="https://github-readme-stats-six-sigma-60.vercel.app/api/top-langs?username=xexubonete&hide_title=true&layout=compact&langs_count=8&card_width=320&theme=dark&bg_color=0E1116&hide_border=true" />
 </a>
