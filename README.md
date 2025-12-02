@@ -7,14 +7,16 @@
   <img 
     height="155" 
     align="center" 
-    src="https://gitmystat.vercel.app/api?username=xexubonete&theme=dark&hide_border=true&bg_color=0E1116&show_icons=true&hide=contribs,prs" 
+    src="https://gitmystat.vercel.app/user?username=xexubonete&theme=dark&background=0x0E1116&border=0x0E1116&color=0xffffff&accent=0x79ffe1&tip=0x79ffe1"
+    alt="GitHub Stats"
   />
 </a>
 
 <a href="https://github.com/xexubonete/">
-  <img 
-    height="155" 
+  <img
+    height="155"
     align="center"
-    src="https://gitmystat.vercel.app/api/top-langs?username=xexubonete&layout=compact&theme=dark&hide_border=true&bg_color=0E1116&langs_count=8"
+    src="https://gitmystat.vercel.app/top-langs?username=xexubonete&theme=dark&background=0x0E1116&border=0x0E1116&color=0xffffff&accent=0x79ffe1&tip=0x79ffe1"
+    alt="Top Languages"
   />
 </a>
