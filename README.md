@@ -1,7 +1,7 @@
 <p align="center">
   Visitor number:<br>
   <img src="https://visit-counter.vercel.app/counter.png?page=xexubonete.github.io" alt="Visitor Counter" /><br>
-</p>
+</p>  
 
 <p align="center">
   <a href="https://github.com/xexubonete">
